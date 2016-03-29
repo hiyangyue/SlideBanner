@@ -2,11 +2,16 @@
 
 ### Usage
 ---
+
+##### Demo
+
+![](demo/slidebanner.git)
+
 ##### Add the dependencies to your gradle file:
     dependencies {
         compile 'com.hiyangyue.lib:slidebanner:1.0.0'
     }
-        
+
 ##### XML
 
     <com.hiyueyang.lib.SlideBanner
@@ -19,4 +24,3 @@
 
 ##### ItemListener
     slideBanner.setViewListener(position,listener);
-
